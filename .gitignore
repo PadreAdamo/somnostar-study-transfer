@@ -1,0 +1,19 @@
+# Patient data and study content
+Patient.dat
+*.raw
+*.enso
+TRANSFER_COMPLETE.txt
+*.log
+backup/
+studies/
+data/
+D/
+
+# Build artifacts
+*.pyc
+__pycache__/
+dist/
+build/
+*.exe
+*.zip
+*.7z
